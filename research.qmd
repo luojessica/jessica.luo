@@ -1,0 +1,121 @@
+---
+title: "Research"
+format:
+    html
+---
+
+::: {.column-margin}
+![Class of 2025](images/grad_library.jpg)
+:::
+
+## EXPERIENCE
+
+### Clinical Research Assistant
+
+May 2023 – August 2024
+
+Pediatric Anesthesia Research Team, BC Children’s Hospital, Vancouver, BC
+
+- Recruited patients and their families in person by explaining studies and obtaining informed consent
+Adhered to protocols and procedures in operating rooms and anesthetic care units, ensuring research data was collected properly, and thinking critically if protocol deviations arise
+- Performed chart reviews of paper and electronic medical health records (Cerner PowerChart, CST Cerner)
+- Interpreted and analyzed quantitative data using R; qualitative data using NVivo 
+- Conducted semi-structured interviews for research purposes using Zoom
+- Supported various projects (clinical drug trials, longitudinal survey studies, quality improvement) from initial to final stages (study conception; research ethics applications; REDCap project set-up; analysis using R, NVivo, and Excel; manuscript writing/preparation/submission)
+
+### Volunteer Research Assistant
+
+November 2022 – March 2023 
+
+UBC Perinatal Anxiety Research Lab, Vancouver, BC
+
+- Recruited potential research participants online, through social media and email, by informing them about study parameters and procedures
+- Ensured participant questions were answered while following TCPS 2 protocols and guidelines
+- Built relationships with organizations and tracked external partnerships by maintaining documentation of recruitment history through excel
+
+### Research Mentee
+
+October 2021 – March 2022 
+
+UBC Murphy Lab/Dynamic Circuits for Brain Health, Vancouver, BC
+
+- Conducted online literature reviews on rodent neuroscience research
+- Supported data collection of rodent subjects and analysis using Python, Raspberry Pi and MATLAB
+- Created a research project with four other team members and presented the poster at the Multidisciplinary Undergraduate Research Conference 
+
+## GRANTS & AWARDS
+
+2025 Evidence to Innovation Clinical Practice, Outcomes & Innovation Podcast Grant
+
+- Project: Patient Outcomes and Quality of Electrocorticography in Epilepsy Surgery
+
+
+2025 Evidence to Innovation Publication Support Award
+
+- Project: Parental Perspectives on Pediatric Surgical Recovery: Narrative Analysis of Free-Text Comments from a Postoperative Survey
+
+
+2024 Evidence to Innovation Clinical Practice, Outcomes & Innovation Podcast Grant
+
+- Project: Genetic Differences in Pharmacodynamic Safety Endpoints with Propofol Anesthesia in Children
+
+## PUBLICATIONS
+
+J. Luo, N. West & G.R. Lauder. (August 28, 2024). myoActivation®, a Structured Assessment and Therapeutic Process for Adolescents With Myofascial Dysfunction and Chronic Low Back Pain: A Case Series. Cureus. 16(8): e68029. doi:10.7759/cureus.68029
+
+J. Luo, N. West, S. Pang, P.M. Page, N.K. Chadha, H. Gan, L.R. Correll, R. Ridgway, N. Broemling & M. Görges. (2024). Parental Perspectives on Pediatric Surgical Recovery: Narrative Analysis of Free-text Comments from a Postoperative Survey. JMIR Perioper Med. doi:10.2196/65198
+
+N. West, J.D. Taylor, J. Luo, T. Newlove & Z. Brown. (January 2025). Facilitated peer discussion to improve anesthesia resident wellness: an evaluation and pre-/post-intervention survey. Canadian Journal of Medical Education. Accepted for publication. doi:10.36834/cmej.79340
+
+### PUBLICATIONS - FORTHCOMING
+J. Luo, N. West, S. Pang, A. Golam, E. Adams, M. Görges, R.R. Carr, F. Miyanji & G.R. Lauder. Perioperative intravenous lidocaine infusion therapy as an adjunct to multimodal analgesia for adolescent idiopathic scoliosis surgical correction: a double-blind randomized-controlled study. Pediatric Anesthesia. In progress.
+
+S. Pang, N. West, H. Zhao, J. Luo, N.K. Chadha, H. Gan & M. Görges. Using perioperative patient- and parent-reported experience and outcome measures to identify pediatric post-surgical recovery trajectories: an observational cohort study. Anesthesia & Analgesia. In progress.
+
+J. Luo, N. Barker, J. Crawford, A. Singhal, L. Huh & K. Bailey. Patient Outcomes and Quality of Electrocorticography in Epilepsy Surgery. Pediatric Anesthesia. In progress.
+
+G. R. Lauder, J. Luo & J. Nassaazi. Early Life Trauma as a Trigger for Developmental Myofascial Dysfunction: A Case Report. Cureus. In progress.
+
+### PRESENTATIONS – ORAL 
+
+J. Luo, N. West, S. Pang, S. Pang, P.M. Page, N.K. Chadha, H. Gan, N. Broemling & M. Görges. Exploring Parental Perspectives on Pediatric Surgical Recovery: Insights from Qualitative Analysis of Free-text Comments in a Postoperative Survey. Office of Pediatric Surgical Evaluation and Innovation, Department of Surgery, Faculty of Medicine, Vancouver, 2024.
+
+J. Luo, N. West, S. Pang, J.M. Robillard, PM Page, NK Chadha, H. Gan, R Ridgway, N. Broemling & M. Görges. Exploring Parental Perspectives on Pediatric Surgical Recovery: Insights from Qualitative Analysis of Free-text Comments in a Postoperative Survey. Evidence to Innovation (E2i) Research Day, Vancouver, 2024.
+
+J. Luo, S. Pang, N. West & M. Görges. Exploring Parental Perspectives on Pediatric Surgical Recovery: Insights from Qualitative Analysis of Free-text Comments in a Postoperative Survey. Multidisciplinary Undergraduate Research Conference, Vancouver, 2024.
+
+J. Luo, S. Pang, N. West, H Tak, R Sreepada, Wood, M.D., Chadha, N.K., R. Ridgway, H. Gan & M. Görges. Pediatric Pain Prediction: a study to gathering patient reported experiences and outcome measures to develop postoperative pain trajectory models. Summer Student Research Program, Vancouver, 2023.
+
+### PRESENTATIONS – POSTER 
+J. Luo, N. Barker, J. Crawford, A. Singhal, L. Huh & K. Bailey. Patient Outcomes and Quality of Electrocorticography in Epilepsy Surgery. Society of Pediatric Anesthesia – Annual Meeting, Orlando FL, 2025.
+
+M. Wake, N. West, J. Luo, N. Wang, J.D. Taylor, T. Newlove, Z. Brown. The evaluation of facilitated peer discussions in promoting Better REsident Wellness (BREW): a semi-structured interview study. Multidisciplinary Undergraduate Research Conference, UBC Vancouver, 2025.
+
+J. Luo, N. Barker, J. Crawford, A. Singhal, L. Huh & K. Bailey. Patient Outcomes and Quality of Electrocorticography in Epilepsy Surgery. Evidence to Innovation (E2i) Fall Forum, Vancouver BC, 2025.
+
+M. Wake, N. West, J. Luo, N. Wang, J.D. Taylor, T. Newlove, Z. Brown. The evaluation of facilitated peer discussions in promoting Better REsident Wellness (BREW): a semi-structured interview study. Evidence to Innovation (E2i) Fall Forum, Vancouver BC, 2025.
+
+N. West., J. Luo, S. Pang, M. Görges, E Adams, F Miyanji, R Carr & G. Lauder. Perioperative Intravenous Lidocaine Therapy for Pain management in adolescent idiopathic scoliosis correction surgery: a double-blind randomized controlled trial. Canadian Pediatric Anesthesia Society Scientific Meeting, Ottawa ON, 2024. 
+
+J. Luo, N. West, S. Pang, J.M. Robillard, PM Page, NK Chadha, H. Gan, R Ridgway, N. Broemling & M. Görges. Exploring Parental Perspectives on Pediatric Surgical Recovery: Insights from Qualitative Analysis of Free-text Comments in a Postoperative Survey. International Anesthesia Research Society – Annual Meeting, Seattle WA, 2024.
+
+S Whyte, L. Moxham, J. Luo & M. Görges. Age and Sex Differences in Pharmacodynamic Endpoints During the Induction of Anesthesia with Propofol in Children. International Anesthesia Research Society – Annual Meeting, Seattle WA, 2024.
+
+S. Pang, H. Tak, J. Luo, N. West, R. Sreepada, N.K. Chadha, H. Gan, & M. Görges. Pediatric Pain Prediction: assessment of preoperative risk factors can be used to predict significant postoperative pain. International Anesthesia Research Society – Annual Meeting, Seattle WA, 2024.
+
+N. West, N. Wang, J. Luo, J.D. Taylor, & Z. Brown. Investigating facilitated peer discussions in promoting Better REsident Wellness (BREW): a qualitative study. International Anesthesia Research Society – Annual Meeting, Seattle WA, 2024.
+
+J. Luo, N. West & G. Lauder Myofascial Components of Adolescent Chronic Low Back Pain: Utilizing myoActivation® as a Structured Solution for Assessment and Management. Society of Pediatric Anesthesia - Annual Meeting, Anaheim CA, 2024.
+
+J. Luo, N. West, S. Pang, J.M. Robillard, P. Page, N.K. Chadha, H. Gan, R. Ridgway, N. Broemling & M. Görges. Exploring Parental Perspectives on Pediatric Surgical Recovery: Insights from Qualitative Analysis of Free-text Comments in a Postoperative Survey. Anesthesiology, Pharmacology & Therapeutics Research Day, Vancouver BC, 2024.
+
+J. Luo, N. West & G. Lauder. Myofascial Components of Adolescent Chronic Low Back Pain: Utilizing myoActivation® as a Structured Solution for Assessment and Management. Anesthesiology, Pharmacology & Therapeutics Research Day, Vancouver BC, 2024.
+
+N. West, N. Wang, J. Luo, J.D. Taylor, & Z. Brown. Investigating facilitated peer discussions in promoting Better REsident Wellness (BREW): a qualitative study. Anesthesiology, Pharmacology & Therapeutics Research Day, Vancouver BC, 2024.
+
+J. Luo, N. West & G. Lauder. Myofascial Components of Adolescent Chronic Low Back Pain: Utilizing myoActivation® as a Structured Solution for Assessment and Management. Evidence to Innovation Fall Forum, Vancouver BC, 2023.
+
+J. Luo, N. West, J.D. Taylor, T. Newlove & Z. Brown. A facilitated peer discussion program for improving anaesthesia resident wellness: a preliminary analysis of benefits and suggested modifications. Summer Student Research Program, Vancouver BC, 2023.
+
+S. Shehata, G. Gill, A. Sinecen, & J. Luo. Investigating the Role of Oxytocin on vCA1 Neurons and Social Memory. Multidisciplinary Undergraduate Research Conference, UBC Vancouver, 2022.
+

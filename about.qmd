@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+## About Jessica Luo.
+
+Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science.
+Her academic interests span the fields of healthcare, neuroscience, and psychology.
+
+Growing up in Victoria, BC...

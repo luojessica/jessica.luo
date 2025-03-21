@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Jessica Luo"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - about.qmd
+      - research.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    smooth-scroll: true
+    toc: true
+    link-external-newwindow: true
+    other-links:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/luo-jessica/
+      - text: ResearchGate
+        href: https://www.researchgate.net/profile/Jessica-Luo-12
+      
+
+# overwrite any render-on-save option
+editor:
+  render-on-save: true
+
