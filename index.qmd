@@ -1,7 +1,25 @@
 ---
 title: "Jessica Luo"
+author: "Jessica Luo"
+date: today
+format: html
+editor: visual
 ---
 
-This is a my website.
+# Hello, I'm Jessica!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column-margin}
+![Class of 2025](images/grad_library.jpg)
+:::
+
+I am a student at the University of British Columbia. I am in the Behavioural Neuroscience major, and also persuing a minor in Data Science.
+
+
+My research focuses on pediatric anesthesia, pain management, and neurophysiological monitoring. 
+
+
+
+
+
+📄 **[View My CV](files/JessicaLuo_CV_2025.pdf)**  
+📩 **[Contact Me](contact.qmd)**  

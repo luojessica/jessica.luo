@@ -10,8 +10,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - about.qmd
       - research.qmd
+      - about.qmd
       - contact.qmd
 
 format:
@@ -21,7 +21,7 @@ format:
       - brand
     css: styles.css
     smooth-scroll: true
-    toc: true
+    toc: false
     link-external-newwindow: true
     other-links:
       - text: LinkedIn

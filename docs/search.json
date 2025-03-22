@@ -4,35 +4,49 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science. Her academic interests span the fields of healthcare, neuroscience, and psychology.\nGrowing up in Victoria, BC…"
+    "text": "Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science. Her academic interests span the fields of healthcare, neuroscience, and psychology.\nJessica was born and raised up in Victoria, BC - Canada’s garden city.\nI am a Clinical Research Assistant at BC Children’s Hospital, focusing on pediatric pain management and neurophysiological outcomes. My background includes research in anesthesia, neuroscience, and patient-reported outcomes."
   },
   {
     "objectID": "about.html#about-jessica-luo.",
     "href": "about.html#about-jessica-luo.",
     "title": "About",
     "section": "",
-    "text": "Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science. Her academic interests span the fields of healthcare, neuroscience, and psychology.\nGrowing up in Victoria, BC…"
+    "text": "Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science. Her academic interests span the fields of healthcare, neuroscience, and psychology.\nJessica was born and raised up in Victoria, BC - Canada’s garden city.\nI am a Clinical Research Assistant at BC Children’s Hospital, focusing on pediatric pain management and neurophysiological outcomes. My background includes research in anesthesia, neuroscience, and patient-reported outcomes."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nBachelor of Science, Behavioural Neuroscience & Data Science (2020 - 2025)\nUniversity of British Columbia\nDean’s List, multiple research awards."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nClinical Research Assistant, BC Children’s Hospital (2023-2024)\n\nVolunteer Research Assistant, UBC Perinatal Anxiety Lab (2022-2023)\n\nSwim Coach, Vancouver Pacific Swim Club (2021-Present)"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "contact",
     "section": "",
-    "text": "Beep me if you wanna reach me!"
+    "text": "Want to work together? Let’s chat!\n📧 Primary Email: luojess@student.ubc.com 📧 Secondary Email: jessicaluo24@gmail.com 📍 Location: Vancouver, BC\nFeel free to reach out for research collaborations or inquiries!"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Class of 2025"
+    "text": "May 2023 – August 2024\nPediatric Anesthesia Research Team, BC Children’s Hospital, Vancouver, BC\n\nRecruited patients and their families in person by explaining studies and obtaining informed consent Adhered to protocols and procedures in operating rooms and anesthetic care units, ensuring research data was collected properly, and thinking critically if protocol deviations arise\nPerformed chart reviews of paper and electronic medical health records (Cerner PowerChart, CST Cerner)\nInterpreted and analyzed quantitative data using R; qualitative data using NVivo\nConducted semi-structured interviews for research purposes using Zoom\nSupported various projects (clinical drug trials, longitudinal survey studies, quality improvement) from initial to final stages (study conception; research ethics applications; REDCap project set-up; analysis using R, NVivo, and Excel; manuscript writing/preparation/submission)\n\n\n\n\nNovember 2022 – March 2023\nUBC Perinatal Anxiety Research Lab, Vancouver, BC\n\nRecruited potential research participants online, through social media and email, by informing them about study parameters and procedures\nEnsured participant questions were answered while following TCPS 2 protocols and guidelines\nBuilt relationships with organizations and tracked external partnerships by maintaining documentation of recruitment history through excel\n\n\n\n\nOctober 2021 – March 2022\nUBC Murphy Lab/Dynamic Circuits for Brain Health, Vancouver, BC\n\nConducted online literature reviews on rodent neuroscience research\nSupported data collection of rodent subjects and analysis using Python, Raspberry Pi and MATLAB\nCreated a research project with four other team members and presented the poster at the Multidisciplinary Undergraduate Research Conference"
   },
   {
     "objectID": "research.html#experience",
     "href": "research.html#experience",
     "title": "Research",
-    "section": "EXPERIENCE",
-    "text": "EXPERIENCE\n\nClinical Research Assistant\nMay 2023 – August 2024\nPediatric Anesthesia Research Team, BC Children’s Hospital, Vancouver, BC\n\nRecruited patients and their families in person by explaining studies and obtaining informed consent Adhered to protocols and procedures in operating rooms and anesthetic care units, ensuring research data was collected properly, and thinking critically if protocol deviations arise\nPerformed chart reviews of paper and electronic medical health records (Cerner PowerChart, CST Cerner)\nInterpreted and analyzed quantitative data using R; qualitative data using NVivo\nConducted semi-structured interviews for research purposes using Zoom\nSupported various projects (clinical drug trials, longitudinal survey studies, quality improvement) from initial to final stages (study conception; research ethics applications; REDCap project set-up; analysis using R, NVivo, and Excel; manuscript writing/preparation/submission)\n\n\n\nVolunteer Research Assistant\nNovember 2022 – March 2023\nUBC Perinatal Anxiety Research Lab, Vancouver, BC\n\nRecruited potential research participants online, through social media and email, by informing them about study parameters and procedures\nEnsured participant questions were answered while following TCPS 2 protocols and guidelines\nBuilt relationships with organizations and tracked external partnerships by maintaining documentation of recruitment history through excel\n\n\n\nResearch Mentee\nOctober 2021 – March 2022\nUBC Murphy Lab/Dynamic Circuits for Brain Health, Vancouver, BC\n\nConducted online literature reviews on rodent neuroscience research\nSupported data collection of rodent subjects and analysis using Python, Raspberry Pi and MATLAB\nCreated a research project with four other team members and presented the poster at the Multidisciplinary Undergraduate Research Conference"
+    "section": "",
+    "text": "May 2023 – August 2024\nPediatric Anesthesia Research Team, BC Children’s Hospital, Vancouver, BC\n\nRecruited patients and their families in person by explaining studies and obtaining informed consent Adhered to protocols and procedures in operating rooms and anesthetic care units, ensuring research data was collected properly, and thinking critically if protocol deviations arise\nPerformed chart reviews of paper and electronic medical health records (Cerner PowerChart, CST Cerner)\nInterpreted and analyzed quantitative data using R; qualitative data using NVivo\nConducted semi-structured interviews for research purposes using Zoom\nSupported various projects (clinical drug trials, longitudinal survey studies, quality improvement) from initial to final stages (study conception; research ethics applications; REDCap project set-up; analysis using R, NVivo, and Excel; manuscript writing/preparation/submission)\n\n\n\n\nNovember 2022 – March 2023\nUBC Perinatal Anxiety Research Lab, Vancouver, BC\n\nRecruited potential research participants online, through social media and email, by informing them about study parameters and procedures\nEnsured participant questions were answered while following TCPS 2 protocols and guidelines\nBuilt relationships with organizations and tracked external partnerships by maintaining documentation of recruitment history through excel\n\n\n\n\nOctober 2021 – March 2022\nUBC Murphy Lab/Dynamic Circuits for Brain Health, Vancouver, BC\n\nConducted online literature reviews on rodent neuroscience research\nSupported data collection of rodent subjects and analysis using Python, Raspberry Pi and MATLAB\nCreated a research project with four other team members and presented the poster at the Multidisciplinary Undergraduate Research Conference"
   },
   {
     "objectID": "research.html#grants-awards",
@@ -53,6 +67,6 @@
     "href": "index.html",
     "title": "Jessica Luo",
     "section": "",
-    "text": "This is a my website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello, I’m Jessica!\n\n\n\n\n\nClass of 2025\n\n\nI am a student at the University of British Columbia. I am in the Behavioural Neuroscience major, and also persuing a minor in Data Science.\nMy research focuses on pediatric anesthesia, pain management, and neurophysiological monitoring.\n📄 View My CV\n📩 Contact Me"
   }
 ]

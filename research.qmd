@@ -4,10 +4,6 @@ format:
     html
 ---
 
-::: {.column-margin}
-![Class of 2025](images/grad_library.jpg)
-:::
-
 ## EXPERIENCE
 
 ### Clinical Research Assistant
