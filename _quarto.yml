@@ -7,12 +7,17 @@ website:
   navbar:
     background: primary
     search: true
-    left:
-      - text: Home
+    right:
+      - text: home
         href: index.qmd
-      - research.qmd
-      - about.qmd
-      - contact.qmd
+      - text: about
+        href: about.qmd
+      - text: CV
+        href: research.qmd
+      - text: projects
+        href: projects.qmd
+      - text: contact
+        href: contact.qmd
 
 format:
   html:
@@ -24,10 +29,10 @@ format:
     toc: false
     link-external-newwindow: true
     other-links:
-      - text: LinkedIn
-        href: https://www.linkedin.com/in/luo-jessica/
-      - text: ResearchGate
-        href: https://www.researchgate.net/profile/Jessica-Luo-12
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/luo-jessica/
+        - text: ResearchGate
+          href: https://www.researchgate.net/profile/Jessica-Luo-12
       
 
 # overwrite any render-on-save option

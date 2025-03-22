@@ -1,1 +1,17 @@
 /* css styles */
+
+h1 {
+    font-size: 24px;  /* Adjust main headers */
+}
+
+h2 {
+    font-size: 22px;  /* Adjust subheaders */
+}
+
+h3 {
+    font-size: 18px;  /* Adjust smaller headers */
+}
+
+p {
+    font-size: 16px;  /* Adjust normal paragraph text */
+}

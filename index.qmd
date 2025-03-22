@@ -1,25 +1,25 @@
 ---
-title: "Jessica Luo"
-author: "Jessica Luo"
+title: "Hello, it's very nice to meet you!"
 date: today
-format: html
+format:
+    html:
+        toc: false  # Disables the table of contents
+        grid:
+            sidebar-width: 0px  # Removes the sidebar if present
 editor: visual
 ---
 
-# Hello, I'm Jessica!
+::: {.columns}
+::: {.column width="70%"}
 
-::: {.column-margin}
-![Class of 2025](images/grad_library.jpg)
-:::
+Hello, I'm Jessica Luo and I am currently a student at the University of British Columbia,
+majoring in Behavioural Neuroscience major and minoring in Data Science.  
 
-I am a student at the University of British Columbia. I am in the Behavioural Neuroscience major, and also persuing a minor in Data Science.
+My research focuses on pediatric anesthesia, pain management, and neurophysiological monitoring.  
 
-
-My research focuses on pediatric anesthesia, pain management, and neurophysiological monitoring. 
-
-
-
-
-
-📄 **[View My CV](files/JessicaLuo_CV_2025.pdf)**  
 📩 **[Contact Me](contact.qmd)**  
+:::
+::: {.column width="30%"}
+![Class of 2025](images/grad_library.jpg){width=100% style="border-radius: 10px; margin-left: 15px; float: right;"}
+:::
+:::

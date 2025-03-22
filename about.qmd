@@ -1,6 +1,6 @@
 ---
-title: "About"
-subtitle: "Hello! It's very nice to meet you."
+title: "Jess of All Trades"
+subtitle: "A brief introduction"
 ---
 
 Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science.
