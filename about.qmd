@@ -1,8 +1,7 @@
 ---
 title: "About"
+subtitle: "Hello! It's very nice to meet you."
 ---
-
-## About Jessica Luo.
 
 Jessica is a fifth-year UBC student graduating with a Bachelor of Science in Behavioural Neuroscience and a Minor in Data Science.
 Her academic interests span the fields of healthcare, neuroscience, and psychology.
